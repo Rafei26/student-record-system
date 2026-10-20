@@ -1,0 +1,4 @@
+# Runtime data is created on first run; keep it out of version control
+data/
+*.tmp
+student_record_system
