@@ -1,3 +1,5 @@
+// Rafei Ahamed - 10696700
+
 // catalogue.go - the catalogue of units, which administrators can change.
 //
 // Courses are fixed sample data, but units can be created, edited and removed

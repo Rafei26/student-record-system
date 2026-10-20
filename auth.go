@@ -1,3 +1,5 @@
+// Rafei Ahamed - 10696700
+
 // auth.go - users, password hashing and sessions (the admin / student split).
 package main
 
